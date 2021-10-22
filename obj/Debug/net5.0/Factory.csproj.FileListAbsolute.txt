@@ -1,6 +1,0 @@
-/Users/deauntehall/Desktop/Factory.Solution/obj/Debug/net5.0/Factory.csproj.AssemblyReference.cache
-/Users/deauntehall/Desktop/Factory.Solution/obj/Debug/net5.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
-/Users/deauntehall/Desktop/Factory.Solution/obj/Debug/net5.0/Factory.AssemblyInfoInputs.cache
-/Users/deauntehall/Desktop/Factory.Solution/obj/Debug/net5.0/Factory.AssemblyInfo.cs
-/Users/deauntehall/Desktop/Factory.Solution/obj/Debug/net5.0/Factory.csproj.CoreCompileInputs.cache
-/Users/deauntehall/Desktop/Factory.Solution/obj/Debug/net5.0/Factory.MvcApplicationPartsAssemblyInfo.cache

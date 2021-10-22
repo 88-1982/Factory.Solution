@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/deauntehall/Desktop/Factory.Solution/Factory.csproj": {}
+    "/Users/deauntehall/Desktop/Factory.Solution/Factory/Factory.csproj": {}
   },
   "projects": {
-    "/Users/deauntehall/Desktop/Factory.Solution/Factory.csproj": {
+    "/Users/deauntehall/Desktop/Factory.Solution/Factory/Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/deauntehall/Desktop/Factory.Solution/Factory.csproj",
+        "projectUniqueName": "/Users/deauntehall/Desktop/Factory.Solution/Factory/Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "/Users/deauntehall/Desktop/Factory.Solution/Factory.csproj",
+        "projectPath": "/Users/deauntehall/Desktop/Factory.Solution/Factory/Factory.csproj",
         "packagesPath": "/Users/deauntehall/.nuget/packages/",
-        "outputPath": "/Users/deauntehall/Desktop/Factory.Solution/obj/",
+        "outputPath": "/Users/deauntehall/Desktop/Factory.Solution/Factory/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/deauntehall/.nuget/NuGet/NuGet.Config"

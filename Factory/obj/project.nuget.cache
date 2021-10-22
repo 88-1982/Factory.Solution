@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGIdgAnnFR9OOoUbaSOEpOQHbP3HFougEdch2tuwgvw3XPFTRIpLuuJpmx8HSROT+Y4vuegVRTJPjRGwckO9Aw==",
+  "dgSpecHash": "c6JV5LyIq1VmGTqvGw8zswHGF+4yWdkZ9hPV4KxQoxks16sKIavFuBa8PE5ZZwnkDHJUj6GMgi0DQZcPO+iOyQ==",
   "success": true,
-  "projectFilePath": "/Users/deauntehall/Desktop/Factory.Solution/Factory.csproj",
+  "projectFilePath": "/Users/deauntehall/Desktop/Factory.Solution/Factory/Factory.csproj",
   "expectedPackageFiles": [
     "/Users/deauntehall/.nuget/packages/castle.core/4.4.1/castle.core.4.4.1.nupkg.sha512",
     "/Users/deauntehall/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
