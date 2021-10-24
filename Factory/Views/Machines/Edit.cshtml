@@ -1,0 +1,18 @@
+@{
+  Layout = "_MachineLayout";
+}
+@model Factory.Models.Machine
+
+<h1>Edit</h1>
+<h2>Edit machine: @Html.DisplayFor(model => model.Name)</h2>
+
+@using (Html.BeginForm())
+{
+  @Html.HiddenFor(model => model.MachineId)
+  @Html.HiddenFor(model => model.InstallationDate)
+  @Html.Label("Make/Model")
+  @Html.EditorFor(model => model.Name, new { required="required" } )
+  @Html.Label("Select engineer")
+  @Html.DropDownList("EngineerId", (SelectList)ViewBag.EngineerId, "None")
+  <input type="submit" value="Save"/>
+}
